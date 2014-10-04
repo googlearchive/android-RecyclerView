@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-840ea8efbb11d537c517bf9ff4c720ec9850e686.jar"
+        jar="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1a625e8a94bf7c73e0f9d30ad1b483ff6ea64e9"/>
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-bea14e4a115363470ac5280edc2a8399d612e3b0.jar"
+        jar="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ae84435ebc95f67a3f5e511025e96caa8688da2"/>
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-385c1591251f85d798c4a94852db3c323ec5ba3f.jar"
+        jar="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="14d500eeb7128db6c0f9b55f166c42eacf00f3b6"/>
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-8abbf2da9162e2cfb8fe146dc386cbcdc2ab6e36.jar"
+        jar="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1-757084bf96a10bda070f25e440f244b7aad0f9c7.jar"
+        jar="/usr/local/google/home/trevorjohns/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.0-rc1/support-annotations-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb"/>
+    <item
+        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-405af3acc8c0ab33151097d040ce3f3e29a0106e.jar"
+        jar="/code/android/lmp-preview-dev/developers/samples/android/ui/views/RecyclerView/Application/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+
+</pre-dex-items>
