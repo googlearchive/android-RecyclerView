@@ -1,13 +1,13 @@
 Android RecyclerView Sample
-===========================
+===================================
 
-Demonstration of using RecyclerView with a LinearLayoutManager to create a vertical ListView.
+Demonstration of using RecyclerView with a LayoutManager to create a vertical ListView.
 
 Pre-requisites
 --------------
 
-- Android SDK (L Developer Preview)
-- Android Build Tools v20
+- Android SDK v21
+- Android Build Tools v21.1.1
 - Android Support Repository
 
 Getting Started
@@ -23,7 +23,7 @@ Support
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
 If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-BasicAndroidKeyStore
+https://github.com/googlesamples/android-RecyclerView
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
@@ -40,8 +40,8 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
-  
+http://www.apache.org/licenses/LICENSE-2.0
+
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
