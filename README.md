@@ -1,7 +1,9 @@
 Android RecyclerView Sample
 ===================================
 
-Demonstration of using RecyclerView with a LayoutManager to create a vertical ListView.
+Demonstration of using RecyclerView with a LinearLayoutManager and GridLayoutManager
+to create a vertical list. Tap "SHOW LOG" to view elements as they are bound to
+their ViewHolder. The log also displays elements that you tap.
 
 Pre-requisites
 --------------
