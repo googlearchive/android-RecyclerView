@@ -1,16 +1,41 @@
 Android RecyclerView Sample
 ===================================
 
-Demonstration of using RecyclerView with a LinearLayoutManager and GridLayoutManager
-to create a vertical list. Tap "SHOW LOG" to view elements as they are bound to
-their ViewHolder. The log also displays elements that you tap.
+Sample demonstrating the use of RecyclerView to layout elements with a
+LinearLayoutManager and with a GridLayoutManager. It also demonstrates
+how to handle touch events on elements.
+
+Introduction
+------------
+
+Sample demonstrating the use of [RecyclerView][1] to layout elements with a
+[LinearLayoutManager][2] or with a [GridLayoutManager][3].
+
+[RecyclerView][1] can display large datasets that can be scrolled
+efficiently by recycling a limited number of views. Click listeners can be
+defined when [ViewHolder][4] views are instantiated. [RecyclerView][1] is
+available in the v7 Support Library, thus compatible with API level 7 and above.
+
+Tap "Show Log" menu item to display log of elements as they are laid out and
+tapped. Use radio buttons to toggle between [LinearLayoutManager][2] and
+[GridLayoutManager][3].
+
+[1]: https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html
+[2]: https://developer.android.com/reference/android/support/v7/widget/LinearLayoutManager.html
+[3]: https://developer.android.com/reference/android/support/v7/widget/GridLayoutManager.html
+[4]: https://developer.android.com/reference/android/support/v7/widget/RecyclerView.ViewHolder.html
 
 Pre-requisites
 --------------
 
 - Android SDK v21
-- Android Build Tools v21.1.1
+- Android Build Tools v21.1.2
 - Android Support Repository
+
+Screenshots
+-------------
+
+<img src="screenshots/1-linear.png" height="400" alt="Screenshot"/> <img src="screenshots/2-grid.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
