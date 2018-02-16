@@ -1,10 +1,11 @@
 
-Android RecyclerView Sample
-===================================
+Android RecyclerView Sample (Kotlin)
+====================================
 
 Sample demonstrating the use of RecyclerView to layout elements with a
 LinearLayoutManager and with a GridLayoutManager. It also demonstrates
 how to handle touch events on elements.
+
 
 Introduction
 ------------
@@ -30,13 +31,13 @@ Pre-requisites
 --------------
 
 - Android SDK 27
-- Android Build Tools v27.0.2
+- Android Gradle Plugin 3.0
 - Android Support Repository
 
 Screenshots
 -------------
 
-<img src="screenshots/1-linear.png" height="400" alt="Screenshot"/> <img src="screenshots/2-grid.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/1-linear.png" height="400" alt="Screenshot"/> <img src="screenshots/2-grid.png" height="400" alt="Screenshot"/>
 
 Getting Started
 ---------------
